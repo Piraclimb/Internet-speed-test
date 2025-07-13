@@ -23,8 +23,9 @@ python network_speed_monitor.py
 
 ## 設定
 
-- `test_interval`: 測定間隔（秒）- デフォルト5秒
-- `max_data_points`: グラフに表示する最大データ点数 - デフォルト100000点
+- `test_interval`: 測定間隔（秒）- デフォルト10秒
+- `max_data_points`: グラフに表示する最大データ点数 - デフォルト8640点
+- 理論上12時間測定可能です
 
 ## 注意事項
 
